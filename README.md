@@ -1,6 +1,6 @@
-# aws-appsync-iot-core-realtime-example
+# aws-iiot-core
 
-This application demonstrates an iPhone receiving real-time updates from an IoT sensor.  The solution is built with AWS AppSync and AWS IoT Core technologies.
+This is demo for AQIS core software for real-time updates. The solution is built with AWS AppSync and AWS IoT Core technologies.
 
 ![Image description](images/app.png)
 
