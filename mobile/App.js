@@ -3,7 +3,7 @@ import { createStackNavigator } from 'react-navigation-stack';
 import SensorDetailScreen from './src/screens/SensorDetailScreen';
 import { withAuthenticator } from 'aws-amplify-react-native'
 
-// define the navigation of the app - this app has 1 screen
+// define the navigation of the app - this app has 1 screen-real-time IoT
 const AppNavigator = createStackNavigator(
   {
     SensorDetailScreen: { screen: SensorDetailScreen }
