@@ -9,7 +9,7 @@ package.Aws-appsync-iot-core-realtime-dashboard = {
         };
     };
 
-    # Use runtime-dependencies for when you want to bring in additional
+    # Use runtime-dependencies for(real-time IIoT) when you want to bring in additional
     # packages when deploying.
     # Use dependencies instead if you intend for these dependencies to
     # be exported to other packages that build against you.
